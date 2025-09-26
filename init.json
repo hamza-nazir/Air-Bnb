@@ -1,0 +1,127 @@
+[
+  {
+    "owner": "68bed5887b3b7de22a1c239c",
+    "rates": 2500,
+    "name": "hamza",
+    "type": "Apartment",
+    "description": "Spacious apartment with modern design.",
+    "location": {
+      "street": "Model Town",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "zipcode": "54000"
+    },
+    "beds": 2,
+    "baths": 1,
+    "square_feet": 950,
+    "amenities": ["Wifi", "Full kitchen", "Free Parking"],
+    "images": [
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg"
+    ],
+    "coords": [74.1914, 32.1476]
+  },
+  {
+    "owner": "68bed5887b3b7de22a1c239c",
+    "rates": 3200,
+    "name": "hamza",
+    "type": "House",
+    "description": "Cozy family house with a garden.",
+    "location": {
+      "street": "Canal Road",
+      "city": "Faisalabad",
+      "country": "Pakistan",
+      "zipcode": "38000"
+    },
+    "beds": 3,
+    "baths": 2,
+    "square_feet": 1400,
+    "amenities": ["Wifi", "Hot Tub", "24/7 Security"],
+    "images": [
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg"
+    ],
+    "coords": [74.1914, 32.1476]
+  },
+  {
+    "owner": "68bed5887b3b7de22a1c239c",
+    "rates": 1800,
+    "name": "hamza",
+    "type": "Studio",
+    "description": "Compact studio perfect for students.",
+    "location": {
+      "street": "Jail Road",
+      "city": "Multan",
+      "country": "Pakistan",
+      "zipcode": "60000"
+    },
+    "beds": 1,
+    "baths": 1,
+    "square_feet": 500,
+    "amenities": ["Wifi", "Washer & Dryer"],
+    "images": [
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg"
+    ],
+    "coords": [74.1914, 32.1476]
+  },
+  {
+    "owner": "68bed5887b3b7de22a1c239c",
+    "rates": 2800,
+    "name": "hamza",
+    "type": "Condo",
+    "description": "Modern condo with city view.",
+    "location": {
+      "street": "Shahrah-e-Faisal",
+      "city": "Karachi",
+      "country": "Pakistan",
+      "zipcode": "74000"
+    },
+    "beds": 2,
+    "baths": 2,
+    "square_feet": 1100,
+    "amenities": ["Wifi", "Full kitchen", "Free Parking", "24/7 Security"],
+    "images": [
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg"
+    ],
+    "coords": [74.1914, 32.1476]
+  },
+  {
+    "owner": "68bed5887b3b7de22a1c239c",
+    "rates": 4000,
+    "name": "hamza",
+    "type": "Cottage Or Cabin",
+    "description": "Peaceful cottage surrounded by nature.",
+    "location": {
+      "street": "Murree Hills",
+      "city": "Murree",
+      "country": "Pakistan",
+      "zipcode": "47150"
+    },
+    "beds": 4,
+    "baths": 3,
+    "square_feet": 1600,
+    "amenities": ["Wifi", "Hot Tub", "Free Parking"],
+    "images": [
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg",
+      "https://res.cloudinary.com/duthfpky2/image/upload/v1757589966/AirBnb/stmekcf7pvvdlwndkfxf.jpg"
+    ],
+    "coords": [74.1914, 32.1476]
+  }
+]

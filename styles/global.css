@@ -1,0 +1,39 @@
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+@media (max-width:992px) {
+   .searchContainer{
+      width: 80vw !important;
+
+}
+}
+
+@media (max-width:768px) {
+   .searchContainer{
+        width: 90vw !important;
+
+}
+}
+
+.hover:hover{
+  background-color: rgb(220, 223, 223);
+  border-radius: 5px;
+  cursor: pointer;
+  transition: ease-in 0.1s;
+}
+
+@media (max-width:576px) {
+   .searchBarItems{
+      display: flex;
+      flex-direction: row;
+      font-size: 0.7rem;
+       
+}
+.searchBarItems>div{
+   margin-top: 8px;
+ 
+}
+}
+
